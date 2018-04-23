@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Finerio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_credentials">CredentialsActivity</string>
+    <string name="todo">TODO</string>
+    <string name="tag_log_in">Iniciar Sesión</string>
+    <string name="as" />
+    <string name="stored_value_id_user">stored_value_id_user</string>
+    <string name="stored_value_agente">stored_value_agente</string>
+    <string name="stored_value_token">stored_value_token</string>
+
+
+    <string name="saved_auth_token">saved_auth_token</string>
+    <string name="saved_customer_id">saved_customer_id</string>
+    <string name="saved_email">saved_email</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
